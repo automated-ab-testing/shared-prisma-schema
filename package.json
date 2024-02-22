@@ -1,5 +1,5 @@
 {
-  "name": "shared-prisma-schema",
+  "name": "@automated-ab-testing/shared-prisma-schema",
   "version": "1.0.0",
   "repository": "https://github.com/automated-ab-testing/shared-prisma-schema.git",
   "author": "rayhankinan <rayhankinan@gmail.com>",
